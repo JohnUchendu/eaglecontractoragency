@@ -33,8 +33,7 @@ export default function Document() {
     <section className="max-w-6xl mx-auto px-6 py-16">
       <h2 className="text-3xl font-bold text-center mb-8">Documents That Work</h2>
       <p className="text-center text-gray-600 mb-12">
-        These are the key documents I use to build high-converting pest control websites and brands.
-      </p>
+        These are the key documents we use for traffic generation, better lead quality and more sales on your pest control services</p>
 
       {/* Document Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

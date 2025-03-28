@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
 
         {/* Quick Links */}
-        <div>
+        {/* <div>
           <h3 className="text-xl font-semibold mb-3">Quick Links</h3>
           <ul className="space-y-2 text-gray-400">
             <li>
@@ -42,7 +42,7 @@ export default function Footer() {
               <Link href="/contact">Contact</Link>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/* Social Media & Copyright */}
         <div className="flex flex-col items-start">
