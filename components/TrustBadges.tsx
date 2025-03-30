@@ -12,10 +12,10 @@ export default function TrustBadges() {
         </div>
         
         {/* SEO Badge */}
-        <div className="flex flex-col items-center">
+        {/* <div className="flex flex-col items-center">
           <Image src="/seo-expert.png" alt="SEO Certified" width={150} height={50} />
           <p className="text-sm text-gray-600 dark:text-gray-300 mt-2">SEO Certified</p>
-        </div>
+        </div> */}
       </div>
     </section>
   );

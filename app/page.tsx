@@ -18,7 +18,7 @@ export default function Home() {
       <TrustBadges/>
       <AboutMe />
       <PortfolioShowcase />
-      <Reviews />
+      {/* <Reviews /> */}
       <ContactPage />
       <FAQ />
       <Document/>

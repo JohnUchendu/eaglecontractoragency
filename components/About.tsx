@@ -7,11 +7,11 @@ export default function AboutMe() {
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
         {/* Profile Image */}
         <Image
-          src="/profile.jpg"
-          alt="About Me"
-          width={200}
-          height={200}
-          className="rounded-full border-4 border-primary shadow-lg"
+          src="/eaglejohn.png"
+          alt="John At Eagle Contractor Agency"
+          width={500}
+          height={500}
+          className="object-contain shadow-lg"
         />
 
         {/* Content */}

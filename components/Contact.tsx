@@ -117,7 +117,7 @@ import { Send } from "lucide-react";
 
 export default function Contact() {
   return (
-    <section className="py-16 px-6 flex justify-center items-center bg-gray-100 dark:bg-gray-900">
+    <section className="py-16 px-6 flex justify-center items-center dark:bg-gray-900">
       <a
         href="https://t.me/yourtelegramusername" // Replace with your Telegram username
         target="_blank"
