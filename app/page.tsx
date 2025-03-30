@@ -17,7 +17,7 @@ export default function Home() {
       <Hero />
       <TrustBadges/>
       <AboutMe />
-      <PortfolioShowcase />
+      {/* <PortfolioShowcase /> */}
       {/* <Reviews /> */}
       <ContactPage />
       <FAQ />
