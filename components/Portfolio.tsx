@@ -58,7 +58,7 @@ export default function Portfolio() {
             className="rounded-lg"
           />
         </div>
-        <Link href="https://example.com/demo" target="_blank" rel="noopener noreferrer">
+        <Link href="https://https://pest-control-gules.vercel.app/" target="_blank" rel="noopener noreferrer">
           <button className="mt-4 px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300">
             View Website
           </button>
@@ -66,9 +66,9 @@ export default function Portfolio() {
       </div>
 
       {/* Before & After Showcase */}
-      <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6">
+      {/* <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6"> */}
         {/* Before Image */}
-        <div className="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg shadow-lg">
+        {/* <div className="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg shadow-lg">
           <h3 className="text-xl font-semibold mb-4">Before Redesign</h3>
           <div className="relative w-full h-60">
             <Image 
@@ -82,10 +82,10 @@ export default function Portfolio() {
           <p className="mt-4 text-gray-700 dark:text-gray-300">
             The old website had poor navigation, outdated design, and low conversion rates.
           </p>
-        </div>
+        </div> */}
 
         {/* After Image */}
-        <div className="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg shadow-lg">
+        {/* <div className="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg shadow-lg">
           <h3 className="text-xl font-semibold mb-4">After Redesign</h3>
           <div className="relative w-full h-60">
             <Image 
@@ -100,7 +100,7 @@ export default function Portfolio() {
             The new design is mobile-friendly, SEO-optimized, and built for higher lead conversions.
           </p>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }

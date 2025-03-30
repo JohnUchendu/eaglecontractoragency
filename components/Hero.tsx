@@ -18,7 +18,7 @@ export default function Hero() {
               href="https://t.me/yourtelegramusername" // Replace with your Telegram username
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-3 bg-blue-500 text-white text-lg font-bold px-6 py-3 rounded-full shadow-lg transition-all duration-300 animate-pulse hover:animate-none hover:bg-blue-600"
+              className="flex items-center gap-3 bg-green-500 text-white text-lg font-bold px-6 py-3 rounded-full shadow-lg transition-all duration-300 animate-pulse hover:animate-none hover:bg-blue-600"
             >
               <Send className="w-6 h-6" />
               Book a Call with John

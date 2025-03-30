@@ -3,7 +3,7 @@ import { TrendingUp, Users, ShoppingCart, ShieldCheck } from "lucide-react"; // 
 
 export default function AboutMe() {
   return (
-    <section className="py-16 px-6 bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white">
+    <section className=" px-6 bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white">
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
         {/* Profile Image */}
         <Image
