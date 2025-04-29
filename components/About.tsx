@@ -19,8 +19,7 @@ export default function AboutMe() {
           <h2 className="text-3xl font-bold">About Us</h2>
           <p className="mt-4 text-lg">
             Welcome to Eagle Contractor Agency! Hi, I’m John, the founder of
-            Eagle Contractor Agency. I don’t just build websites—I help pest
-            control businesses make more money through a proven system that
+            Eagle Contractor Agency. I don’t just build websites—I help law firms make more money through a proven system that
             drives more traffic, improves lead quality, and increases sales.
             This system, backed by expert website design, SEO, and social media
             strategies, ensures consistent growth and profitability for my
@@ -39,7 +38,7 @@ export default function AboutMe() {
             </div>
             <div className="flex items-center gap-3">
               <ShoppingCart className="text-blue-500 w-6 h-6" />
-              <span className="text-lg">Sell more pest control services</span>
+              <span className="text-lg">Sell more legal services</span>
             </div>
             <div className="flex items-center gap-3">
               <ShieldCheck className="text-blue-500 w-6 h-6" />
