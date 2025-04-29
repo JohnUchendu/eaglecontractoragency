@@ -48,17 +48,17 @@ export default function Portfolio() {
 
       {/* Demo Website Showcase */}
       <div className="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg shadow-lg text-center">
-        <h3 className="text-xl font-semibold mb-4">Pest Control Demo Website</h3>
+        <h3 className="text-xl font-semibold mb-4">K.K. Ubani & Co.</h3>
         <div className="relative w-full h-60 md:h-80">
           <Image 
             src="/demo-website.jpg" 
-            alt="Pest Control Website Demo" 
+            alt="K.K. Ubani & Co." 
             layout="fill" 
             objectFit="cover" 
             className="rounded-lg"
           />
         </div>
-        <Link href="https://https://pest-control-gules.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <Link href="https://kkubaniandco.com/" target="_blank" rel="noopener noreferrer">
           <button className="mt-4 px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300">
             View Website
           </button>
