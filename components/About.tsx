@@ -14,7 +14,7 @@ export default function AboutMe() {
           className="object-contain shadow-lg"
         /> */}
         <Image
-          src="/eagle.PNG"
+          src="/eagle.png"
           alt="John At Eagle Contractor Agency"
           width={500}
           height={500}

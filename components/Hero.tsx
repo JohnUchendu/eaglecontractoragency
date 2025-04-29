@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative bg-[#0A2647] text-white py-20 px-6 text-center">
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold md:text-5xl">
-          Helping Law Firms Be Professional and Credible Online
+        Helping Law Firms Succeed with a Professional and Trustworthy Online Image
         </h1>
         <p className="mt-4 text-lg md:text-xl text-gray-300">
           Custom Websites, Social Media Management & SEO for Law Firms in Nigeria
