@@ -51,7 +51,7 @@ export default function Portfolio() {
         <h3 className="text-xl font-semibold mb-4">K.K. Ubani & Co.</h3>
         <div className="relative w-full h-60 md:h-80">
           <Image 
-            src="/demo-website.jpg" 
+            src="/kkubanisc.PNG" 
             alt="K.K. Ubani & Co." 
             layout="fill" 
             objectFit="cover" 

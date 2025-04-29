@@ -14,13 +14,13 @@ export default function Footer() {
 
           <section className="py-2 flex   dark:bg-gray-900">
             <a
-              href="https://t.me/yourtelegramusername" // Replace with your Telegram username
+              href="tel:+2347036580994" // Replace with your Telegram username
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 bg-green-500 text-white text-lg font-bold px-6 py-3 rounded-full shadow-lg transition-all duration-300 animate-pulse hover:animate-none hover:bg-blue-600"
             >
               <Send className="w-6 h-6" />
-              Book a Call with John
+             I want A Strong Online Presence
             </a>
           </section>
         </div>
@@ -46,9 +46,9 @@ export default function Footer() {
 
         {/* Social Media & Copyright */}
         <div className="flex flex-col items-start">
-          <h3 className="text-xl font-semibold mb-3">Follow Us</h3>
+          {/* <h3 className="text-xl font-semibold mb-3">Follow Us</h3> */}
           <div className="flex space-x-4">
-            <Link
+            {/* <Link
               href="https://facebook.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -75,7 +75,7 @@ export default function Footer() {
               rel="noopener noreferrer"
             >
               <Instagram className="w-6 h-6 text-gray-400 hover:text-white transition duration-300" />
-            </Link>
+            </Link> */}
           </div>
           <p className="text-gray-500 mt-6 text-sm">
             © {new Date().getFullYear()} Eagle Contractor Agency. All Rights

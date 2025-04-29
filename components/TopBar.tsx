@@ -13,11 +13,12 @@ export default function Topbar() {
 
       {/* Social Icons */}
       <div className="flex space-x-4">
-        <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+        {/* <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
           <Facebook className="w-6 h-6 hover:text-blue-500 transition duration-300 cursor-pointer" />
-        </Link>
+        </Link> */}
+        <div>0703 658 0994</div>
 
-        <Link href="mailto:contact@example.com">
+        <Link href="mailto:admin@eaglecontractoragency.vercel.app">
           <Mail className="w-6 h-6 hover:text-red-500 transition duration-300 cursor-pointer" />
         </Link>
       </div>

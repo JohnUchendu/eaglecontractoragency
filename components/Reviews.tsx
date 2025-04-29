@@ -2,20 +2,20 @@ import { Carousel, CarouselContent, CarouselItem, CarouselPrevious, CarouselNext
 
 const reviews = [
   {
-    author: "John Doe",
+    author: "Kelechi Kenneth Ubani - Principal Partner (K.K.Ubani & Co.)",
     rating: 5,
-    text: "Excellent service! Highly recommend this pest control company."
+    text: "Excellent service! Highly recommend this eagle contractor agency to give you a professional secure website."
   },
-  {
-    author: "Jane Smith",
-    rating: 4,
-    text: "Great customer support and very effective treatment."
-  },
-  {
-    author: "Mike Johnson",
-    rating: 5,
-    text: "Professional team and fast results. Couldn't be happier!"
-  }
+  // {
+  //   author: "Jane Smith",
+  //   rating: 4,
+  //   text: "Great customer support and very effective treatment."
+  // },
+  // {
+  //   author: "Mike Johnson",
+  //   rating: 5,
+  //   text: "Professional team and fast results. Couldn't be happier!"
+  // }
 ];
 
 export default function Reviews() {

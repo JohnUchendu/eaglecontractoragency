@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "We create America's #1 Trusted Pest Control Websites and Brands!",
-  description: "Creating America's #1 Trusted Pest Control Websites and Brands",
+  title: "We create Nigeria's #1 Trusted Law Firm Websites and Brands!",
+  description: "Creating Nigeria's #1 Trusted Legal Services Websites and Brands",
 };
 
 export default function RootLayout({
